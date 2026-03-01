@@ -1,2 +1,2 @@
-# Daily-Brief
-Investment Daily Brief
+# InvestmentBrief
+Investment Brief Daily/Weekly/Monthly
